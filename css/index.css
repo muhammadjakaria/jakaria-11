@@ -1,0 +1,18 @@
+
+header h2{
+    background: rgb(12, 125, 29);
+    color: rgb(201, 38, 38);
+    padding: 20px;
+}
+main {
+    background: black;
+}
+footer p{
+    background: cyan;
+    padding: 20px;
+    font-size: 10px;
+    color:blue;
+    font-size: 30px;
+   
+
+}
